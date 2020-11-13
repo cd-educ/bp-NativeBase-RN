@@ -25,4 +25,4 @@ Profit 😃
 
 ### Documentación
 
-[Guía NativeBase)[https://docs.nativebase.io/docs/GetStarted.html]
+[Guía NativeBase](https://docs.nativebase.io/docs/GetStarted.html)
