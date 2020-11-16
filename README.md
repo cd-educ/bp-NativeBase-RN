@@ -8,7 +8,7 @@ Proyecto base de ReactNative/Expo con NativeBase instalado y configurado.
 
 Crea el proyecto con este boilerplate:
 ```bash
-npx create-react-native-app --template https://www.github.com/cd-educ/bp-NativeBase-RN
+npx create-react-native-app --template https://github.com/cd-educ/bp-NativeBase-RN
 ```
 
 Instalar las dependencias necesarias localmente estando posicionado en la carpeta del proyecto:
